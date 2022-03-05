@@ -1,0 +1,13 @@
+.main{
+    color:blue;
+    text-align: center;
+}
+
+.list{
+    text-align: center;
+    list-style:inside ;
+}
+
+#desc{
+    text-align: center;
+}
